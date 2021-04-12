@@ -76,6 +76,8 @@ func test04() {
 	command.UndoWorker()
 }
 func main() {
+	222
+	1111
 	parse.Do()
 	// 11111
 	// concurrency.Do()
