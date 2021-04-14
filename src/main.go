@@ -2,7 +2,6 @@ package main
 
 import (
 	"awesomeProject/src/designMode/command"
-	"awesomeProject/src/tools/parse"
 	"fmt"
 	"time"
 )
@@ -76,13 +75,6 @@ func test04() {
 	command.UndoWorker()
 }
 func main() {
-	222
-	1111
-	parse.Do()
-	// 11111
-	// concurrency.Do()
-	// test04()
-	// test03()
-	// test02()
-	// test01()
+
+
 }
